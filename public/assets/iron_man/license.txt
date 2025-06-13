@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ironman MUA3
+* source:	https://sketchfab.com/3d-models/ironman-mua3-86ac883d926d402e8aeb926bcde7abd8
+* author:	20062020year (https://sketchfab.com/20062020year)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ironman MUA3" (https://sketchfab.com/3d-models/ironman-mua3-86ac883d926d402e8aeb926bcde7abd8) by 20062020year (https://sketchfab.com/20062020year) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

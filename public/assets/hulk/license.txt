@@ -1,0 +1,11 @@
+Model Information:
+* title:	Prototype Hulk - 2003 Video Game
+* source:	https://sketchfab.com/3d-models/prototype-hulk-2003-video-game-fa73f3c12a094016ab3acdec8085e7ba
+* author:	TurkishDude (https://sketchfab.com/TurkishDude)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Prototype Hulk - 2003 Video Game" (https://sketchfab.com/3d-models/prototype-hulk-2003-video-game-fa73f3c12a094016ab3acdec8085e7ba) by TurkishDude (https://sketchfab.com/TurkishDude) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
