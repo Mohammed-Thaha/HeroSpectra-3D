@@ -12,5 +12,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 For full details, refer to the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
-
-**Note:** If you prefer a different license, such as Apache-2.0 or GPL, let me know, and I can generate one accordingly!

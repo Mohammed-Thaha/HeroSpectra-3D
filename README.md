@@ -69,7 +69,7 @@ We appreciate contributions! Check out our [Contribution Guide](CONTRIBUTING.md)
 
 We welcome contributions from the community! To get started, please review our [CONTRIBUTING.md](CONTRIBUTING.md), which outlines the steps for making meaningful contributions.  
 
-All contributors are expected to follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.  
+All contributors are expected to follow our [Code of Conduct]([CODE_OF_CONDUCT.md](https://github.com/Mohammed-Thaha/HeroSpectra-3D/blob/main/CODE_OF_CONDUCT.md)) to ensure a respectful and inclusive environment.  
 
 ## ✨ How to Contribute  
 1. **Fork** the repository and create your branch from `main`.  
@@ -78,7 +78,6 @@ All contributors are expected to follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT
 4. Ensure your code adheres to our coding standards and passes necessary checks.  
 
 We appreciate every contribution and look forward to collaborating with you! 🚀  
-
 ---
 
 ## 📁 Project Structure
@@ -144,12 +143,10 @@ my-project/
 - **.eslintrc.js**: ESLint configuration
 
 ---
-
 ## 📜 License & Contact Info
 
-- **License:** [MIT License](LICENSE)
-- **Contact:** Please use [GitHub Issues](https://github.com/mohammed-thaha/HeroSpectra-3D/issues) and [Discussions](https://github.com/mohammed-thaha/HeroSpectra-3D/discussions) for support or questions.
-
+- **License:** [MIT License](https://github.com/Mohammed-Thaha/HeroSpectra-3D/blob/main/LICENSE.md)
+- **Contact:** Please use [GitHub Issues](https://github.com/mohammed-thaha/HeroSpectra-3D/issues) 
 ---
 
 > Made with ❤️ by the Mohammed Thaha
