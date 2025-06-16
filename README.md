@@ -8,9 +8,10 @@
 
 **HeroSpectra 3D** is an interactive web application built using:  
 
-- **React** for dynamic UI components  
+- **React** for dynamic UI components
+- **Vite** for fast and efficient development 
 - **Three.js** for immersive 3D rendering  
-- **Vite** for fast and efficient development  
+ 
 
 ### 🌟 Features  
 
